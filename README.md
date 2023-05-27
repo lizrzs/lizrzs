@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi everyone 😊
 
-<!--
-**lizrzs/lizrzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning ... programation
+- 🤔 I’m looking for help with ... math
+- 😄 Pronouns: she/her he/him 
+- 😎 Things i like: Life Is Strange, Brooklyn Nine-Nine, Sally Face, Everythings Sucks!, The Owl House, Ordem Paranormal (Brazilian RPG) and Gravity Falls
+- 💿 My Favorite Band: Gorillaz
+- 🎧 My Favorite Music: The Hills - The Weeknd
